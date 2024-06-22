@@ -30,6 +30,8 @@ mesop ol_mesop.py
 mesop ol_mesop.py
 ```
 
+Then open your browser to http://localhost:32123/chat
+
 #License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
