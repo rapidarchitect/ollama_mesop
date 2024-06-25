@@ -27,7 +27,7 @@ mesop ol_mesop.py
 ### OR for the streaming version ###
 
 ```bash
-mesop ol_mesop.py
+mesop ol_stream_mesop.py
 ```
 
 Then open your browser to http://localhost:32123/chat
